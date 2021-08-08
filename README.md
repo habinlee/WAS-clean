@@ -181,3 +181,7 @@ File Upload Process
   - If the upload process ends successfully, delete from the WAS storage
     - If there is an error in the check / upload process the next rerun execution of the process will follow up with the previous process
     - The uploaded files are deleted in units of project directories
+
+Related Documents :
+- Target Storage Research : [NCP Object Storage _ Archive Storage Research.pdf](https://github.com/habinlee/WAS-clean/files/6950389/NCP.Object.Storage._.Archive.Storage.Research.pdf)
+
